@@ -10,6 +10,7 @@
 import math
 import random
 
+
 def main():
     # introductory paragraph
     print("This program generates 10")
@@ -38,7 +39,6 @@ def main():
 
     # displaying results
     print("The average is {}.".format(avg))
-
 
 
 if __name__ == "__main__":
